@@ -1,6 +1,6 @@
 # auto-refer
 
-> 智能推荐（小菊）
+> 智能推荐
 
 ## Build Setup
 
